@@ -124,6 +124,23 @@ Word Document Generator
 Response with Generated Document
 
 ---
+## 📸 Project Screenshots
+
+### Swagger UI
+
+![Swagger UI](images/swagger-ui.png)
+
+---
+
+### API Request
+
+![API Request](images/api-request.png)
+
+---
+
+### Generated Word Document
+
+![Generated Document](images/generated-document.png)
 
 ## Engineering Improvement
 
