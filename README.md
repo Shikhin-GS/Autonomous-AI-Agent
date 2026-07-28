@@ -1,4 +1,4 @@
-# Autonomous AI Agent
+# 🤖 Autonomous AI Agent
 
 An AI-powered Autonomous Agent built using **Python**, **FastAPI**, and **Google Gemini AI** that understands user requests, creates an execution plan, generates business documents, and exports them as Microsoft Word (.docx) files.
 
@@ -124,23 +124,6 @@ Word Document Generator
 Response with Generated Document
 
 ---
-## 📸 Project Screenshots
-
-### Swagger UI
-
-<img width="1488" height="662" alt="swagger-ui png" src="https://github.com/user-attachments/assets/4fef7268-1cfc-4bdf-bd13-db75f7af926c" />
----
-
-### API Request
-
-<img width="1463" height="622" alt="api-request png" src="https://github.com/user-attachments/assets/063bfa18-c90d-49dd-825a-f65a1a5ba544" />
-
----
-
-### Generated Word Document
-
-<img width="1341" height="688" alt="generated-document png" src="https://github.com/user-attachments/assets/fe536282-051f-4d22-a838-1886708735fa" />
-
 
 ## Engineering Improvement
 
