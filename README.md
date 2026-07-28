@@ -1,4 +1,4 @@
-# 🤖 Autonomous AI Agent
+# Autonomous AI Agent
 
 An AI-powered Autonomous Agent built using **Python**, **FastAPI**, and **Google Gemini AI** that understands user requests, creates an execution plan, generates business documents, and exports them as Microsoft Word (.docx) files.
 
