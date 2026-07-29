@@ -48,6 +48,24 @@ AI_AGENT_PROJECT/
 ├── README.md
 └── .gitignore
 ```
+## Project Screenshots
+
+### Home Page
+
+![Home](images/home.png)
+
+### Swagger UI
+
+![Swagger UI](images/swagger.png)
+
+### API Response
+
+![API Response](images/api_response.png)
+
+### Generated Word Document
+
+![Generated Document](images/generated_document.png)
+
 
 ---
 
