@@ -48,25 +48,6 @@ AI_AGENT_PROJECT/
 ├── README.md
 └── .gitignore
 ```
-## Project Screenshots
-
-### Home Page
-
-![Home](images/home.png)
-
-### Swagger UI
-
-![Swagger UI](images/swagger.png)
-
-### API Response
-
-![API Response](images/api_response.png)
-
-### Generated Word Document
-
-![Generated Document](images/generated_document.png)
-
-
 ---
 
 ## Installation
@@ -142,6 +123,24 @@ Word Document Generator
 Response with Generated Document
 
 ---
+
+## 📸 Project Screenshots
+
+### 1. Swagger UI
+
+![alt text](swagger-ui.png-1.png)
+
+### 2. API Request
+
+![alt text](api-request.png.png)
+
+### 3. API Response
+
+![alt text](api-response.png-1.png)
+
+### 4. Generated Business Document
+
+![alt text](generated-document.png-1.png)
 
 ## Engineering Improvement
 
